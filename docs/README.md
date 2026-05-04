@@ -16,7 +16,7 @@ Includes overview of principles, roles, artifacts, lifecycle, and links to all p
 Closes #2"
 
 git push origin feat/add-docs-readme
-
+--
 # 4. Crea el Pull Request con revisor
 gh pr create \
   --title "docs: Add README for OctoAcme Project Management Docs" \
